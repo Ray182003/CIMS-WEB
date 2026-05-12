@@ -1,0 +1,5 @@
+.fc-daygrid-day-number {
+  color: rgb(94, 90, 90) !important;
+  z-index: 2;
+  position: relative;
+}

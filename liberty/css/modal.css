@@ -1,0 +1,16 @@
+    .modal-dialog-scrollable {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .modal-content {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+    }
+
+    .modal-body {
+        overflow-y: auto;
+        flex: 1;
+    }
